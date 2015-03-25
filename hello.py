@@ -1,5 +1,0 @@
-print("Eutimio Machuca parra", "A01630244")
-print(" this is ahorcado wey aijaa")
-x=int(input("enter x here"))
-y=int(input("enter y here"))
-print((x**2), "x^2", "+", (2*x*y), "xy", "+", (y**2), "y^2")
